@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ---
-[![Vidéo de démonstration](https://github.com/user-attachments/assets/6701b80d-226f-43fb-af8b-0740fd337dea)
+https://github.com/user-attachments/assets/6701b80d-226f-43fb-af8b-0740fd337dea
 ##  Structure du projet
 
 ```text
