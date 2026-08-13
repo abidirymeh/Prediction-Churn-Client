@@ -32,8 +32,7 @@ pip install -r requirements.txt
 ```
 
 ---
-https://github.com/abidirymeh/Prediction-Churn-Client/blob/85f253ab8880f28982f4ae5156e5a274d4f43a27/Screen%20Recording.webm
-
+[![Vidéo de démonstration](screenshots/dashboard.png)](https://github.com/abidirymeh/Prediction-Churn-Client/blob/main/Screen%20Recording.webm?raw=true)
 ##  Structure du projet
 
 ```text
